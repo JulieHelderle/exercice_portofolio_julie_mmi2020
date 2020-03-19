@@ -1,0 +1,33 @@
+
+.description1{
+
+border-width:1px;
+border-style:groove;
+border-color:black;
+width: auto;
+
+
+
+}
+
+.ajouter {
+
+border-width:1px;
+border-style:groove;
+border-color:black;
+width: 5%;
+display: inline-block;
+
+}
+
+.modifier{
+
+border-width:1px;
+border-style:groove;
+border-color:black;
+width: 5%;
+display: inline-block;
+
+
+}
+
